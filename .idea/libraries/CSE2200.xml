@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CSE2200">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Teleport-Java-App-master/dist/CSE2200.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
